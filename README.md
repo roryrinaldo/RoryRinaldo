@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi there, I'm Rory Rinaldo, a Web Developer and an Information System Student 🚀 from Indonesia.
+
+Talking about Personal Stuffs:
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning vue
+- ⚡ Excited to create open-source projects
+- 📫 How to reach me: roryrinaldo06@gmail.com
+
+
 <!--
 **roryrinaldo/Roryrinaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
