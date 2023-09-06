@@ -15,15 +15,9 @@ I'm Rory Rinaldo, a Fullstack Developer with a Diploma of Higher Education in In
 * Database: MySQL 
 * Cloud: AWS, Azure
 
-**Projects:**
-
-* [Personal website](https://roryrinaldo.com/)
-* [To-do list app](https://github.com/roryrinaldo/todo-app)
-* [Weather app](https://github.com/roryrinaldo/weather-app)
-
 **Contact:**
 
-* Email: roryrinaldo06@gmail.com
+* Email: rynaldo.dev@outlook.com
 * LinkedIn: https://www.linkedin.com/in/roryrinaldo/
 
 **Looking for:**
