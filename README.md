@@ -10,10 +10,9 @@ I'm Rory Rinaldo, a Fullstack Developer with a Diploma of Higher Education in In
 
 **Skills:**
 
-* Front-end: HTML, CSS, JavaScript, Vue.Js
-* Back-end: PHP, Node.js
-* Database: MySQL 
-* Cloud: AWS, Azure
+* Front-end: HTML, CSS, JavaScript, Vue.Js, React
+* Back-end: PHP, Node.js, Java, ASP.NET
+* Database: MySQL, MongoDB 
 
 **Contact:**
 
