@@ -2,24 +2,24 @@
 
 I'm Rory Rinaldo, a Full Stack Developer with a Diploma of Higher Education in Information Systems from Vocational College of Politeknik Caltex Riau, Indonesia. I'm excited to connect with you and learn more about your work! 
 
-**About me:**
+**About me**
 ---
 * I'm passionate about building web applications and solving problems with code.
 * I'm always learning new things and I'm excited to explore the world of open source.
 * I'm a team player and I'm always willing to help others.
 
-**Skills:**
+**Skills**
 ----
 * Front-end: HTML, CSS, JavaScript, Vue.Js, React
 * Back-end: PHP, Node.js, Java, ASP.NET
 * Database: MySQL, MongoDB 
 
-**Contact:**
+**Contact**
 ---
 * Email: rynaldo.dev@outlook.com
 * LinkedIn: https://www.linkedin.com/in/roryrinaldo/
 
-**Looking for:**
+**Looking for**
 ---
 * Opportunities to collaborate on open source projects
 * Feedback on my work
