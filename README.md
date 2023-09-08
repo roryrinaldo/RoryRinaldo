@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rory Rinaldo, a Fullstack Developer with a Diploma of Higher Education in Information Systems from Indonesia. 
+I'm Rory Rinaldo, a Full Stack Developer with a Diploma of Higher Education in Information Systems from Vocational College of Politeknik Caltex Riau, Indonesia. I'm excited to connect with you and learn more about your work!
 
 **About me:**
 
@@ -25,4 +25,4 @@ I'm Rory Rinaldo, a Fullstack Developer with a Diploma of Higher Education in In
 * Feedback on my work
 * New challenges to learn and grow
 
-I'm excited to connect with you and learn more about your work!
+
