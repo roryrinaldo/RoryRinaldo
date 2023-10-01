@@ -17,7 +17,7 @@ I'm Rory Rinaldo, a Full Stack Developer with a Diploma of Higher Education in I
 **Contact**
 ---
 * Email: rynaldo.dev@outlook.com
-* LinkedIn: https://www.linkedin.com/in/roryrinaldo/
+* LinkedIn: https://linkedin.com/in/rory-rinaldo-227061294/
 
 **Looking for**
 ---
