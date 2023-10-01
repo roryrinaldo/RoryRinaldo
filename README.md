@@ -17,7 +17,7 @@ I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied 
 **Contact**
 ---
 * Email: rynaldo.dev@outlook.com
-* LinkedIn: https://linkedin.com/in/rory-rinaldo-227061294/
+* LinkedIn: https://linkedin.com/in/roryrinaldo/
 
 **Looking for**
 ---
