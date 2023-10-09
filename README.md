@@ -14,11 +14,6 @@ I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied 
 * Back-end: PHP, Node.js, Java, ASP.NET
 * Database: MySQL, MongoDB 
 
-**Contact**
----
-* Email: rynaldo.dev@outlook.com
-* LinkedIn: https://linkedin.com/in/roryrinaldo/
-
 **Looking for**
 ---
 * Opportunities to collaborate on open source projects
