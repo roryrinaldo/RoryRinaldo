@@ -10,7 +10,7 @@ I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied 
 
 **Skills**
 ----
-* Front-end: HTML, CSS, JavaScript, Vue.Js, Vuetify, Bootstrap, Material Design, Tailwind
+* Front-end: HTML, CSS, JavaScript, Vue.Js, Vuetify, Bootstrap, Tailwind
 * Back-end: PHP, Laravel, CodeIgniter, Node.js, Java, ASP.NET
 * Database: MySQL, MongoDB, SQLite
 * Tools: NPM, Github, VSCode, Figma
