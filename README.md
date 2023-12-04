@@ -22,7 +22,6 @@ Back-End:
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Language](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![Language](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
