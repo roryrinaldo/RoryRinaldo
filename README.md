@@ -23,16 +23,9 @@ Back-End:
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Language](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
-![Language](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![Language](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-Database:
-
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 Mobile Development:
 
@@ -40,6 +33,13 @@ Mobile Development:
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+Database:
+
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 Tools: 
 
