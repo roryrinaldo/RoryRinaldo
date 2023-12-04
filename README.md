@@ -2,18 +2,55 @@
 
 I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied Computer in Information Systems from Vocational College of Politeknik Caltex Riau, Indonesia. I'm excited to connect with you and learn more about your work! 
 
-**About me**
----
-* I'm passionate about building web applications and solving problems with code.
-* I'm always learning new things and I'm excited to explore the world of open source.
-* I'm a team player and I'm always willing to help others.
-
-**Skills**
+**Skills & Technologies**
 ----
-* Front-end: HTML, CSS, JavaScript, Vue.js, React, Vuetify, Bootstrap, Tailwind CSS, Ant Design
-* Back-end: PHP, Laravel, CodeIgniter, Node.js, Java, python, ASP.NET
-* Database: MySQL, MongoDB, SQLite
-* Tools: NPM, Github, VSCode, Figma
+Front-End:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roryrinaldo&layout=compact)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ES6](https://img.shields.io/badge/-ES6-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-%231867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+Back-End:
+
+![PHP](https://img.shields.io/badge/-PHP-%234F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Language](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![Language](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+Database:
+
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+Mobile Development:
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+Tools: 
+
+![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+**Stats**
+----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roryrinaldo&layout=compact&theme=dark)
 
