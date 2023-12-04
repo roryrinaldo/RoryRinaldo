@@ -15,6 +15,8 @@ I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied 
 * Database: MySQL, MongoDB, SQLite
 * Tools: NPM, Github, VSCode, Figma
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roryrinaldo)]
+
 **Looking for**
 ---
 * Opportunities to collaborate on open source projects
