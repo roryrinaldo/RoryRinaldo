@@ -17,10 +17,3 @@ I'm Rory Rinaldo, a Full Stack Developer who graduated as a Bachelor of Applied 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roryrinaldo&layout=compact)
 
-**Looking for**
----
-* Opportunities to collaborate on open source projects
-* Feedback on my work
-* New challenges to learn and grow
-
-
