@@ -18,8 +18,8 @@ Front-End:
 
 Back-End:
 
-![PHP](https://img.shields.io/badge/-PHP-%234F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-%234F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Language](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=black)
@@ -47,8 +47,8 @@ Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Stats**
 ----
