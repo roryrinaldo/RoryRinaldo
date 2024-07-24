@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rory Rinaldo, a Full Stack Developer who graduated with a Bachelor of Applied Computer in Information Systems from [Vocational College of Politeknik Caltex Riau][https://pcr.ac.id/], Indonesia. I have approximately 5 years of coding experience and currently work at PT. Digital Otoma Solusi. I'm excited to connect with you and learn more about your work! 
+I'm Rory Rinaldo, a Full Stack Developer who graduated with a Bachelor of Applied Computer in Information Systems from [Vocational College of Politeknik Caltex Riau](https://pcr.ac.id/), Indonesia. I have approximately 5 years of coding experience and currently work at PT. Digital Otoma Solusi. I'm excited to connect with you and learn more about your work! 
 
 **Skills & Technologies**
 ----
