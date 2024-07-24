@@ -1,6 +1,6 @@
 ## About
 
-👋 Hi there! I'm Rory Rinaldo, a passionate Full Stack Developer with 5 years of coding experience, currently crafting innovative solutions at PT. Digital Otoma Solusi. I hold a Bachelor's degree in Applied Computer Science, specializing in Information Systems, from the [Vocational College of Politeknik Caltex Riau](https://pcr.ac.id/), Indonesia.
+👋 Hi there! I'm Rory Rinaldo, a passionate Full Stack Developer with over 5 years of coding experience, currently crafting innovative solutions at PT. Digital Otoma Solusi. I hold a Bachelor's degree in Applied Computer Science, specializing in Information Systems, from the [Vocational College of Politeknik Caltex Riau](https://pcr.ac.id/), Indonesia.
 
 🚀 I thrive on turning complex problems into sleek, efficient applications. Whether it's backend or frontend, I enjoy every step of the development journey.
 
