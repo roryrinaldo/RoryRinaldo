@@ -31,8 +31,6 @@ Mobile Development:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 Database:
 
